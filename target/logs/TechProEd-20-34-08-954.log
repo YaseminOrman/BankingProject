@@ -1,0 +1,4 @@
+2023-07-17 20:34:08,949 INFO t.TC_LoginTest_001 [main] url is opened
+2023-07-17 20:34:09,143 INFO t.TC_LoginTest_001 [main] Entered username
+2023-07-17 20:34:09,227 INFO t.TC_LoginTest_001 [main] Entered password
+2023-07-17 20:34:09,532 INFO t.TC_LoginTest_001 [main] Login test passed
