@@ -15,4 +15,6 @@ public class LoginPage {
     public WebElement txtPassword;
    @FindBy(name = "btnLogin")
     public WebElement btnLogin;
+   @FindBy(xpath = "//h2")
+    public WebElement guru99Text;
 }
