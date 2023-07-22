@@ -31,4 +31,9 @@ public class AddCostumerPage {
     public WebElement password;
     @FindBy(xpath = "//input[@type='submit']")
     public WebElement submitButton;
+    @FindBy(xpath = "//a[text()=\"New Customer\"]")
+    public WebElement newCustomerButton;
+    //@FindBy(id = "dismiss-button")
+    @FindBy(xpath = "//span[text()='Close']")
+    public WebElement alertDismissButton;
 }
